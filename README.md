@@ -12,7 +12,7 @@
 
 ##图片说明
 仅考虑自重作用的结构最大主拉应力云图：HelinGravitySingle.png
-![仅考虑自重作用的结构最大主拉应力云图](https://xx.com/img_folder/detection.png)
+![仅考虑自重作用的结构最大主拉应力云图](https://github.com/zjkl19/HelinBridgePier/blob/master/HelinGravitySingle.png)
 
 除了考虑自重，还考虑相邻构件相互作用力下的结构最大主拉应力云图：HelinGravityWhole.png
-![除了考虑自重，还考虑相邻构件相互作用力下的结构最大主拉应力云图](https://xx.com/img_folder/detection.png)
+![除了考虑自重，还考虑相邻构件相互作用力下的结构最大主拉应力云图](https://github.com/zjkl19/HelinBridgePier/blob/master/HelinGravityWhole.png)
